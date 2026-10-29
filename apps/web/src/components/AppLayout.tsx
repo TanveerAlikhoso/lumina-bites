@@ -283,7 +283,7 @@ export default function AppLayout({ children, title }: AppLayoutProps) {
           {/* Profile — desktop only */}
           <button
             className="desktop-nav"
-            onClick={() => navigate('/my-profile')}
+            onClick={() => navigate('/profile')}
             aria-label="Profile"
             style={{
               background: 'none',
