@@ -13,25 +13,25 @@ const CATEGORIES: Category[] = [
     id: 'burgers',
     name: 'Prime Burgers',
     description: 'Wagyu, Truffle, & Gold-leaf selections.',
-    image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBYBN0Cf27016ZhN_e6aHnFlmSBzQgHDDRb5NfyJPvLLUA0TW83I6sEpUj6uSjb0sI9Wp3P1Ce1GYi4q5l7MPJ2lwdn8R4Y9ZOAGc48mztcPpAgxjf0jW3gLJ79c_uD14dtxEAdiNUOm_yxdCChLxa8ZjPReDOvuH2_1Xy6zSWTK7msQFjvy2ip8gr8H_WFTNv0hEziJk6z__dkZQPbDB0UqPiETC35awDW56w3a5TTFJVpZ13N479jhkLqFjp-Aqs7FvJBsyLPXLfb'
+    image: '/images/placeholders/burger.svg'
   },
   {
     id: 'pizza',
     name: 'Artisan Pizza',
     description: '72-hour fermented sourdough crust.',
-    image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDgCRU-aSFfdDTsfRxDAR2haLTAATI0zQS-R73zKhHcfpp97Pq7b7GPfcVEzaChxv_xA25J-MPWKihIcHSmPSJmIc4oQBf2BnV8NMZ4DV0QLdcyQiClraTCpNuElRg0btfZV_sVVm8_BObB0FIBbHkbCIXc0VhNsBffB1QzYk4UO4n3pf9Ryd1XveLm9i37RVmo4IC-4J0besv64w0Hl-EF6ZJX7UV5kOv59T3ccyoF2_gYN6T2EEqAecqqKIXu6t4eM8NF-fK2qko0'
+    image: '/images/placeholders/pizza.svg'
   },
   {
     id: 'sides',
     name: 'Signature Sides',
     description: 'Truffle frites & charred seasonal greens.',
-    image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuC1tTtRpqICxonHQlTbw-TSOQCi4hf32hUZf_N19_DD2b10Jz4d7Pf5nYUXuiqzXUx4C01XECoPmZJzIQwVlzi-cqKFK2xhBfdh9tfBdROYGccafW68QA_hw1wCvKsRrnnziUfVhABsdg-mAdzlUh1_lZLQjrWwOS_tXMmORbek1gGVZVElqE_lZYY6yJ4oS8BmjGiLpsfxogK89Jxs4fEKc32WScySRrX_jbsGyG12b4_0Z2mB_BGFjE5y83VDBq1HuUv8iFfrBRLF'
+    image: '/images/placeholders/sides.svg'
   },
   {
     id: 'drinks',
     name: 'Lumina Elixirs',
     description: 'Crafted botanical infusions & cold brews.',
-    image: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAPyZF1R_4sWzjrzUc914Un2AnO0PKesfTX53b3y7mewgQ0E9yj2qC8Lp8uNiuztQ578XCi0epHFNHHqVfld0Apv_AJwMNvPW3hei3yCT_lm1A-pgw0aBAj3bVsJCa9xERArQD8UnU7LOX-2gQGnJorpwr4qVkwJRgHgrHhS6fEGqz3tjvhS6xCjXe6xwRfpD9BPIZ1_NNEPIf9eoTkIKOwKUG_v1LXFonm-7ZODtPfSpb3pHvYNBzchhldGkByqHbGL7olXsxWRlRB'
+    image: '/images/placeholders/drinks.svg'
   }
 ];
 

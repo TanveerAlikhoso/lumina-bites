@@ -44,13 +44,13 @@ export const FoodHero: React.FC<FoodHeroProps> = ({ onExploreMenu, onOurStory })
       <View style={styles.montageContainer}>
         {/* Background Pizza */}
         <Image 
-          source={{ uri: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBHxQhuhfy5zzUmGYw5lXDZKo75FabHZB3EQ29qHeeWoRsBgQG3V9NjEINSBYD1ayniGZ8M_vf56vA4jF00wlE1HqXYMdVQ8hiSbumG7q8F9CG3tjPQuZuImlziMgbeu05cXEf-MNhP-TyAbD8Z1VCRmBdJvAO5g7rXYxeheycY4Q-n5bZpe9siIKlWkDZjQVPKt-Zv33qigwEvr_W-ZNKQ41q4AGSZW58DNE3qkLD6xsfh3j0TcCakXh32mz7fx2pwcbby-6loAJo6' }} 
+          source={require('../assets/pizza.png')} 
           style={styles.pizzaImage}
           contentFit="contain"
         />
         {/* Foreground Burger */}
         <Image 
-          source={{ uri: 'https://lh3.googleusercontent.com/aida-public/AB6AXuC9ejIWjw4LKat4e47wL7ce0nf7ShAFXguQ3BxT06uRdc7BMjKBOPTOj1rVeOpGN5o2IZvWjUWF1hK-xjOxtilID1mTQISbLmQpcwQ2zk3z548INsDjBjOb4vgYGv_cNHrtBZlE6g3wzx6SW9JRCgaTr6kHn0BBPfyMqDfDtSfNU_0jisy9-qO9Pb0w0SDEirKMF83XenCDLM34S8OJJeg1o4XuD6gzVZAcVg1IWr5-3E_YVWblK3af5haQ_dDrKDAsJMtojdIS-_Cj' }} 
+          source={require('../assets/burger.png')} 
           style={styles.burgerImage}
           contentFit="contain"
         />

@@ -4,6 +4,17 @@ import { Image } from 'expo-image';
 import { Product, formatPrice } from '@lumina/core';
 import { tokens } from '../theme/tokens';
 
+const CATEGORY_PLACEHOLDERS: Record<string, any> = {
+  burgers: require('../assets/burger.png'),
+  pizza: require('../assets/pizza.png'),
+  pasta: require('../assets/pasta.png'),
+  sides: require('../assets/sides.png'),
+  drinks: require('../assets/drinks.png'),
+};
+const placeholderFor = (category: string) =>
+  CATEGORY_PLACEHOLDERS[category] ?? require('../assets/dish.png');
+
+
 interface MenuCardProps {
   product: Product;
   quantity: number;
@@ -29,7 +40,7 @@ export const MenuCard: React.FC<MenuCardProps> = ({
         {/* Overlapping 3D Image */}
         <View style={styles.imageWrapper}>
           <Image 
-            source={{ uri: product.image }} 
+            source={placeholderFor(product.category)} 
             style={styles.image}
             contentFit="cover"
             transition={300}

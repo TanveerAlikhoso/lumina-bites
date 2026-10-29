@@ -15,7 +15,6 @@ export const FoodHero: React.FC<FoodHeroProps> = ({ onExploreMenu, onOurStory })
       }}
       className="relative min-h-[90vh] lg:min-h-screen flex items-center pt-24 overflow-hidden"
     >
-      <div className="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/dark-matter.png')] opacity-10 pointer-events-none"></div>
       
       <div className="container mx-auto px-margin-mobile md:px-margin-desktop grid grid-cols-12 items-center gap-gutter-md relative z-10 w-full max-w-container-max">
         
@@ -52,13 +51,13 @@ export const FoodHero: React.FC<FoodHeroProps> = ({ onExploreMenu, onOurStory })
             <img 
               alt="Artisan Wood-Fired Pizza" 
               className="absolute w-[60%] sm:w-[50%] lg:w-[70%] h-auto z-10 bottom-4 right-4 sm:right-8 translate-x-1/8 drop-shadow-[0_20px_40px_rgba(147,0,10,0.4)] rotate-[12deg] opacity-75 pointer-events-none" 
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuBHxQhuhfy5zzUmGYw5lXDZKo75FabHZB3EQ29qHeeWoRsBgQG3V9NjEINSBYD1ayniGZ8M_vf56vA4jF00wlE1HqXYMdVQ8hiSbumG7q8F9CG3tjPQuZuImlziMgbeu05cXEf-MNhP-TyAbD8Z1VCRmBdJvAO5g7rXYxeheycY4Q-n5bZpe9siIKlWkDZjQVPKt-Zv33qigwEvr_W-ZNKQ41q4AGSZW58DNE3qkLD6xsfh3j0TcCakXh32mz7fx2pwcbby-6loAJo6"
+              src="/images/placeholders/hero-pizza.svg"
             />
             {/* Foreground Burger */}
             <img 
               alt="Luxury Wagyu Burger" 
               className="absolute w-[70%] sm:w-[60%] lg:w-[80%] h-auto z-20 drop-shadow-[0_30px_60px_rgba(255,182,139,0.35)] rotate-[-6deg] hover:rotate-0 transition-transform duration-700 cursor-grab active:cursor-grabbing" 
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuC9ejIWjw4LKat4e47wL7ce0nf7ShAFXguQ3BxT06uRdc7BMjKBOPTOj1rVeOpGN5o2IZvWjUWF1hK-xjOxtilID1mTQISbLmQpcwQ2zk3z548INsDjBjOb4vgYGv_cNHrtBZlE6g3wzx6SW9JRCgaTr6kHn0BBPfyMqDfDtSfNU_0jisy9-qO9Pb0w0SDEirKMF83XenCDLM34S8OJJeg1o4XuD6gzVZAcVg1IWr5-3E_YVWblK3af5haQ_dDrKDAsJMtojdIS-_Cj"
+              src="/images/placeholders/hero-burger.svg"
             />
           </div>
         </div>
