@@ -99,7 +99,7 @@ export default function Profile() {
   return (
     <div className="min-h-screen bg-[#131313] text-[#e5e2e1] relative overflow-x-hidden font-body selection:bg-[#ffb68b]/30 pb-20">
       <Head>
-        <title>Lumina Foods | Premium Patron Profile</title>
+        <title>Lumina Bites | Premium Patron Profile</title>
         <meta name="description" content="Manage your Lumina VIP dining reservations, track autonomous drone dispatches, and check exclusive loyalty points." />
       </Head>
 

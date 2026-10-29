@@ -38,7 +38,7 @@ export default function ExperiencePage() {
           {/* Image Background */}
           <div style={{ position: 'absolute', inset: 0, zIndex: 0 }}>
             <img
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuBnqbzz_H9RQVVRediZaMBG9PSUTjClyzkY0ApNmVXS2fzY5Zvpm6a4OoajZb1uQrlo_qVvg3bGNhFvh9ifVU21G980MoBZ1kREIVlXQjpyqXb97nsixyjLGDU9pyT-YZrWnRXOzm8tWaDc9e0_4Rm40SHKleqQO6as9rNnuWBxytm9uViaFYyv7Cb_jpj7eTnJrsos9v2RDHuNt004yq-3VzaogxSMIVe54zbElml8ZTlE_gz1K8_gMBNhU7xAQh-a3bY46F0ZxOek"
+              src="/images/placeholders/dish.svg"
               alt="Cinematic Savor Background"
               style={{ width: '100%', height: '100%', objectFit: 'cover', filter: 'brightness(0.35) grayscale(20%)' }}
             />
@@ -206,7 +206,7 @@ export default function ExperiencePage() {
                 }}
               >
                 <img
-                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuAtfhYP2flW8_FlVN7gWQlzocP8uefpWMS4Lee34cJJxFoA3Ls24gFGJOABeWDCTP63Pa50A7bgd8C_CQSuQqLG3vCbh7P6iv63f20X0ZBV36TY-QFylI7YiikzgTdGLONuCMWLcC0zULJSnlZ-vk2SGUYS8XMwzV87-LX5IhNer1TLfqZSRIDRGbinQSkl7XtAzYAblE4kfkDFwc_oNOs3Md6Iu9B1wjD7w8FVwJ7r65colyAeMBHkiIpSqpTJ9VZxtXIk9MyNDdZX"
+                  src="/images/placeholders/dish.svg"
                   alt="Fine Restaurant Ambience"
                   style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                 />
@@ -279,7 +279,7 @@ export default function ExperiencePage() {
                 className="bento-wagyu"
               >
                 <img
-                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuAc4OBj7CS9SAlE7rbTJ6IH0JWbC9h_Vc8gD-qyLvUP0DNP-0o_kO_ditPPZ3xTPLtVwTnQ4q2wefB7HPlLFZUzXUtHvLmeYDurUcndwP9Nbnsj1N6b0oWF6ZRYPznGQH5HUWgGTsUrn_S-f3zQo1BAMKwRIlzmOVog2rnk98_DZFb2KCGUq56E1yLDl-8vIfI6JaLVqSFwl3sBBQfYrw-uYvtOxwr1YjUEsh5qkWIm1u3uIt86LxfUOichC4C0HVyo5X_GVl39l9O3"
+                  src="/images/placeholders/dish.svg"
                   alt="A5 Wagyu Beef"
                   style={{ width: '100%', height: '100%', objectFit: 'cover', position: 'absolute', zIndex: 0 }}
                 />
@@ -304,7 +304,7 @@ export default function ExperiencePage() {
                 }}
               >
                 <img
-                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuBzlvsM2bFuU8oTk1xOsoh9jjJ69bjlhh89IqsoYoU_6EOljJjBNLOHBJziZBmEUdACkGZBaEPzjxHsSX6WbOEb44omexCj-15_K1RMvfNrfPTNTmGApGzSw0wyYxVCcuUEBVcZSZWN_rplQipN50lRGI0Vbzs60W2RBOydUxNh3vL03NtOJUJwkOZrjPbB2FxFjQAY49QeUIrcLGA9PNxWfj-6OR-Ko7BYEst-N9Awc-QDoHT6EKHwuE-Au2czMiipn4PRkwIAm2v6"
+                  src="/images/placeholders/dish.svg"
                   alt="Black Winter Truffles"
                   style={{ width: '100%', height: '100%', objectFit: 'cover', position: 'absolute', zIndex: 0 }}
                 />
@@ -330,7 +330,7 @@ export default function ExperiencePage() {
                   }}
                 >
                   <img
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuAylqQty97iob2XcZZKpdqBbjjpBRkORrpJM5y36r1IfM6xEEJ9Z8FB8_YHYlGdjEsA2rmSArzTK_CSV2ZpbAxsaYgS7ysY6BSvBPbEEb5rGIzKW9YuDNTvfLLwQyOa3PI6C96nxriUQTMSfYShhak2cdNp75UBYlhS-2MKptc0qHpz8p0TCS-88EergO31KR5ZVyWqCjhhnm4W4-2whZJw83f8IoQrUJh4tDuptvbRXz8-37V5eY8iUNNzwEL85CNzSBTozEIfxJzn"
+                    src="/images/placeholders/dish.svg"
                     alt="Gold Flakes"
                     style={{ width: '100%', height: '100%', objectFit: 'cover', position: 'absolute', zIndex: 0 }}
                   />
@@ -350,7 +350,7 @@ export default function ExperiencePage() {
                   }}
                 >
                   <img
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuDojewYtCC4MAsR0FGBBiQOQbVFoLqpcSYbAiv5OMJ0ywyrEs24t-qmjZRXlORMmlv91eawk-sW9M2FQOSSUJuLjYR0X9ViduqAWg5tTS2LfTZdfOIpv7UFXUHpYfhJZ80w016XkkXSXVQ7wz-uTvGhyThidAVv-tyerqAJO_K3IBEq_i8ZgcSOkq4402BTCp6qOGUdm5cBaDKHchSPrz5sLSjAiEaewf4okrZiMb5kyS8o0gwk29cnr3vRJKdT-q0yka0YJogVr8op"
+                    src="/images/placeholders/dish.svg"
                     alt="Saffron Bowl"
                     style={{ width: '100%', height: '100%', objectFit: 'cover', position: 'absolute', zIndex: 0 }}
                   />

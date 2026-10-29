@@ -82,7 +82,7 @@ export default function Locations() {
   return (
     <div className="min-h-screen bg-[#131313] text-[#e5e2e1] relative overflow-x-hidden font-body selection:bg-[#ffb68b]/30 pb-20">
       <Head>
-        <title>Lumina Foods | Premium Dining &amp; Vault Locations</title>
+        <title>Lumina Bites | Premium Dining &amp; Vault Locations</title>
         <meta name="description" content="Discover our luxury fast-dining vault locations in Beverly Hills, Manhattan, and Mayfair. Live capacity tracking and exclusive room reservations." />
       </Head>
 

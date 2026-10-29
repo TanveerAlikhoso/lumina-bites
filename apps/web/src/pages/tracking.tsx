@@ -59,8 +59,8 @@ export default function Tracking() {
   return (
     <div className="min-h-screen bg-[#131313] text-[#e5e2e1] relative overflow-x-hidden font-body selection:bg-[#ffb68b]/30 pb-20">
       <Head>
-        <title>Lumina Foods | Drone Flight Satellite Tracking</title>
-        <meta name="description" content="Track your autonomous high-speed drone delivery from Lumina Foods kitchen to your precise coordinate location." />
+        <title>Lumina Bites | Drone Flight Satellite Tracking</title>
+        <meta name="description" content="Track your autonomous high-speed drone delivery from Lumina Bites kitchen to your precise coordinate location." />
       </Head>
 
       {/* Decorative radial glows */}

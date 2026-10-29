@@ -106,8 +106,8 @@ export default function Catering() {
   return (
     <div className="min-h-screen bg-[#131313] text-[#e5e2e1] relative overflow-x-hidden font-body selection:bg-[#ffb68b]/30 pb-20">
       <Head>
-        <title>Lumina Foods | Elite Sovereign Catering</title>
-        <meta name="description" content="High-society banquets, elite marine yacht catering, and customized truffle culinary proposals by Lumina Foods." />
+        <title>Lumina Bites | Elite Sovereign Catering</title>
+        <meta name="description" content="High-society banquets, elite marine yacht catering, and customized truffle culinary proposals by Lumina Bites." />
       </Head>
 
       {/* Background radial glows */}

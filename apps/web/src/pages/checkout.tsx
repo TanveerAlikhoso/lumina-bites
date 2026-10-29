@@ -188,7 +188,7 @@ export default function CheckoutPage() {
                     >
                       <img
                         style={{ width: '100%', height: '100%', objectCover: 'cover' } as any}
-                        src="https://lh3.googleusercontent.com/aida-public/AB6AXuB2wrLFPLDB-OVZQHeJsJCzcMVnzlbuEthbWGhBf9KD81u3oSM01LMMpzXqfjuV9ttlKESfiU8pzwFUNxpd8yG5TYzbHHd0o4ZNUmi0iFir7UN3T4FOWA78UCuE8l5qF3ByjOB_cfzsGNol3SmXKpUK6ZNUuBVE3v7df2J19A7DKxRSTcu_uOmusJzv7-y4p1yuC9QEPh5c6V9Am7WUfAdH5VqmIz47Gh8dmq_Kvxq2vTUAj9q9P__b1bECol2WsrW5p_7VXP_wVYMN"
+                        src="/images/placeholders/location.svg"
                         alt="Map Coordinates"
                       />
                       <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to top, rgba(14,14,16,0.7), transparent)' }} />
@@ -507,7 +507,7 @@ export default function CheckoutPage() {
                             style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                             onError={(e) => {
                               // Replace broken images
-                              e.currentTarget.src = 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=100&auto=format&fit=crop';
+                              e.currentTarget.src = '/images/placeholders/dish.svg';
                             }}
                           />
                         </div>

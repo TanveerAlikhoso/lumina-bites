@@ -91,7 +91,7 @@ export default function Offers() {
   return (
     <div className="min-h-screen bg-[#131313] text-[#e5e2e1] relative overflow-x-hidden font-body selection:bg-[#ffb68b]/30 pb-20">
       <Head>
-        <title>Lumina Foods | Elite Offers &amp; Promos</title>
+        <title>Lumina Bites | Elite Offers &amp; Promos</title>
         <meta name="description" content="Exclusive luxury dining codes, truffle pairings, 24k gold flakes, and free drone deliveries at Lumina Bites." />
       </Head>
 

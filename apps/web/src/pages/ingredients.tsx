@@ -35,7 +35,7 @@ export default function IngredientsPage() {
           {/* Background Image */}
           <div style={{ position: 'absolute', inset: 0, zIndex: 0 }}>
             <img
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuDtjPVi_SoGqzAR8_b7z2vbSlKwOdXOQpqHkiqZ2r31UTwEc8cC0CkhCgEVgyN2Lq-65_aedKv20-B-f6D2LSN_YK7JaJDDrmkLcFacptw-OyUEr9y0B0-gsIQvnSduhuNDjwsqrgNala5zQ7dSg6FPIbPH1MXs4Uuo2rXEQ_i8PYkU14UwzKcF5ylmOmzu119vRAV3n7vps3t9PfJQdQm7R2FwHAtNMAizFC06BGssT4YA3em16eIGmmH80Y2mx1klOiZLKo9Kq0oV"
+              src="/images/placeholders/dish.svg"
               alt="Raw Wagyu and Truffle Spread"
               style={{ width: '100%', height: '100%', objectFit: 'cover', filter: 'brightness(0.35)' }}
             />
@@ -156,7 +156,7 @@ export default function IngredientsPage() {
                 }}
               >
                 <img
-                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuA5POiEP43QJrbrZxCUxI6DCDLmPiFKA-WCdUL-rZWr5xLeXBKh8xAdqqk000miYbm5SH0IvmFLywcdhhEMIFJuTaMAJBF_rjK3BKsyAydi1LZBcdrQ0psvwRh1VRy4LV6a5Lh-IgeJWjKhoL2j4Ox19onB4LTUziouq-0qRf4OJPs0OuYA9joI7BAjbaF4GuYM2uD9-cdouDFGOquLxEe6O6Oc9vN40O9yYhme03qczdJD3hKIR7whZqkhNl4eQm6PeQHUJa2m1jNH"
+                  src="/images/placeholders/dish.svg"
                   alt="Raw Wagyu Marbling Slice"
                   style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '16px' }}
                 />
@@ -277,7 +277,7 @@ export default function IngredientsPage() {
               >
                 <div style={{ aspectRatio: '1/1', position: 'relative', borderRadius: '18px', overflow: 'hidden' }}>
                   <img
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuBx-5SnLwRC-mNWkGVUqdWRFAw-9yxcq2dDzK_V1lwU-m8rXgvQsg2Ma0KQBmNR3e8VYy6wYdqUHQ5H90eRIHUhmYTdCMcRu5CJ9Z0xVUbLN2NL9BoqqXO_74miHd15taSFLAGMkVZrWi1QMeK5-MTGDvXdx3rBszu37HXPD-32_gA_JjP9T-B1RWQvJPvh48Q8K5ydVmVJ8N3kBmTIO6j8X00RiHxwgpzV1PtD8V0UI0aMfkXpH30KKO_N_bqg9Kx1rx7m8o3uPr4c"
+                    src="/images/placeholders/dish.svg"
                     alt="Black Truffles Detail"
                     style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                   />
@@ -303,7 +303,7 @@ export default function IngredientsPage() {
               >
                 <div style={{ aspectRatio: '1/1', position: 'relative', borderRadius: '18px', overflow: 'hidden' }}>
                   <img
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuAM-2J094EEV-b2JaImXDI-nhuPRFbmZE1LczAujtgvzN-uAyyhEVlIyDXHylFfH1OUDyu2MQOHzX2RrsdCfOO6G55rHrqVRu2XhMZ0gBs0jifp_27_FXgUzsUwynHD2vWHJNcPQhfZYFjDJz2uq77I-n6WeuBnInhI5sIRySHQSqDy9mHkCbdNgk471AiKhxOyRgaP73FPb-ovpio-voy3iWmV6J8aGSmdHEH5GwZ448kU9ze_2lkq2CN4H__cUO3uhVSxZ66brYc6"
+                    src="/images/placeholders/dish.svg"
                     alt="Chef Shaving Truffles"
                     style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                   />
@@ -328,7 +328,7 @@ export default function IngredientsPage() {
               >
                 <div style={{ aspectRatio: '1/1', position: 'relative', borderRadius: '18px', overflow: 'hidden' }}>
                   <img
-                    src="https://lh3.googleusercontent.com/aida-public/AB6AXuBGa1B4a1yWqETNUwfZtX05s2Bt1HMSPF-XaPCRIeCK_bJWeLdLZJf3-JBKgcWYUBsoJUPwldfuxfe3ffDYX2jQm9E6QLfnuB270ux6o3KdrT4zlKcF1_rIO0mqIzVgP3eXwI-VAeCG-9k1xG_WuUcyHD-bk8IfAF2n-uzzmgmORej-qixhv_rTJezt6WwntRSfJscXKbCXVT0d6adtY2Nt77gIULlpaHQkjExwaulZXHumFnyzQVhWkxgYr4fLHymQYcwUv311ExdW"
+                    src="/images/placeholders/dish.svg"
                     alt="Truffle Preservation"
                     style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                   />
@@ -419,7 +419,7 @@ export default function IngredientsPage() {
                 }}
               >
                 <img
-                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuA7NWEJOSudS6WUPqcjW2_9EMt6r6c0kXJlK60YwPTgkDJQh_w4s73wuwwxAcEUb33-BcEle6g4xVuykDR5M2n_9oGIYpXubPCxHgwp6yMouH35CJcch08tb9mKwarPMpjPfT8yhIXuBwuwtvPxK0AlU6AM_93sCTUMOGE1vEwPwVA2l0xAOZEvDD5yfSPXJ6DvZNzbSOc0DCfiloFcMkse9djKI926xg2iP14jWwbraIwCwegSWedVCicW32B86LKO4c6Dk9iSY5y4"
+                  src="/images/placeholders/dish.svg"
                   alt="Gold and Saffron Garnish"
                   style={{ width: '100%', height: 'auto', display: 'block' }}
                 />
