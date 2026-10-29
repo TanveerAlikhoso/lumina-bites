@@ -24,7 +24,7 @@ const DINING_LOCATIONS: DiningLocation[] = [
     seatingDensity: '85% (High Seating)',
     densityValue: 85,
     description: 'Located in the heart of Wilshire, offering an exclusive rooftop patio, open-air garden kitchen, and a private dining vault with custom Julian Vance pairings.',
-    image: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&q=80&w=800',
+    image: '/images/placeholders/location.svg',
     coordinates: { lat: 34.0674, lng: -118.3995 }
   },
   {
@@ -36,7 +36,7 @@ const DINING_LOCATIONS: DiningLocation[] = [
     seatingDensity: '45% (Comfortable)',
     densityValue: 45,
     description: 'A multi-level architectural masterpiece on Fifth Avenue featuring gold-accented booths, glass mezzanine views, and integrated drone dispatch pads for local VIP couriers.',
-    image: 'https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=800',
+    image: '/images/placeholders/location.svg',
     coordinates: { lat: 40.7614, lng: -73.9753 }
   },
   {
@@ -48,7 +48,7 @@ const DINING_LOCATIONS: DiningLocation[] = [
     seatingDensity: '95% (Fully Booked)',
     densityValue: 95,
     description: 'Our historic British flagship in Mayfair. Indulge in live flame-roasted charcoal chambers, hand-rolled gold-leaf pasta, and private sommelier tastings beneath crystal chandeliers.',
-    image: 'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&q=80&w=800',
+    image: '/images/placeholders/location.svg',
     coordinates: { lat: 51.5098, lng: -0.1429 }
   }
 ];
