@@ -10,5 +10,8 @@
   "dependencies": {
     "@lumina/core": "1.0.0",
     "lucide-react": "^0.344.0"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
   }
 }
