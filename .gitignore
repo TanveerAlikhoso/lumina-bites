@@ -46,3 +46,8 @@ next-env.d.ts
 .agent/
 .gemini/
 *.log
+
+# expo / generated
+.expo/
+__pycache__/
+*.pyc

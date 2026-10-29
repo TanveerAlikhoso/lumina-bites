@@ -13,7 +13,8 @@
     "dev": "concurrently -n \"web,mobile\" -c \"cyan,magenta\" \"npm run dev:web\" \"npm run dev:mobile\"",
     "build:web": "npm run build --workspace=apps/web",
     "build:ui": "npm run build --workspace=packages/ui",
-    "build:core": "npm run build --workspace=packages/core"
+    "build:core": "npm run build --workspace=packages/core",
+    "build:mobile": "npm run build --workspace=apps/mobile"
   },
   "devDependencies": {
     "concurrently": "^8.2.2",
