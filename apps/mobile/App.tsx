@@ -141,7 +141,7 @@ export default function App() {
         {/* Cinematic Native FoodHero */}
         <FoodHero 
           onExploreMenu={() => {}}
-          onOurStory={() => alert("Welcome to Lumina Foods. Elevated Dining.")}
+          onOurStory={() => alert("Welcome to Lumina Bites. Elevated Dining.")}
         />
 
         {/* Categories Title */}
@@ -222,7 +222,7 @@ export default function App() {
               cart.map((item) => (
                 <View key={item.id} style={styles.cartItemRow}>
                   <Image 
-                    source={{ uri: item.image }} 
+                    source={require('../../packages/ui/src/assets/dish.png')} 
                     style={styles.cartItemImg}
                     resizeMode="cover"
                   />
@@ -363,7 +363,7 @@ export default function App() {
                 {/* Image and Title Header */}
                 <View style={{ flexDirection: 'row', gap: 12, marginBottom: 12 }}>
                   <Image 
-                    source={{ uri: loc.image }} 
+                    source={require('../../packages/ui/src/assets/location.png')} 
                     style={{ width: 64, height: 64, borderRadius: 12, borderWidth: 1, borderColor: 'rgba(255, 255, 255, 0.1)' }}
                     resizeMode="cover"
                   />
